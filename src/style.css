@@ -1,12 +1,52 @@
-* {
-    margin: 0;
-    text-align: center;
-    -webkit-background-size: cover;
-    -moz-background-size: cover;
-    -o-background-size: cover;
+body {
+    background-image: url("https://media.giphy.com/media/1k3mSvfX5lUwYktSSm/giphy.gif");
+    width: 100%;
     background-size: cover;
 }
 
-main {
-    background-image: linear-gradient(#0c17f5, #73c1f5);
+.carpet {
+    font-size: 3rem;
+    font-family: 'Yeseva One', cursive;
+	text-align: center;
+	color: #FFF;
+	display: flex;
+	flex-direction: column;
+	align-items: center;
+	justify-content: center;
+	height: 90vh;
+	letter-spacing: 1px;
 }
+
+h1 {
+    background-image: 
+    url(https://media.giphy.com/media/3oEdv2jhcfX4JgaXao/giphy.gif);
+    background-size: cover;
+	color: transparent;
+	-moz-background-clip: text;
+	-webkit-background-clip: text;
+	text-transform: uppercase;
+	font-size: 120px;
+	line-height: .75;
+	margin: 10px 0;
+}
+
+h3 {
+    font-family: 'Rochester', cursive;
+    color: #242424;
+    font-size: 2.8rem;
+}
+
+/*
+background-image: url("https://media.giphy.com/media/26ufo4EIIEdB8tX3y/giphy.gif");
+https://media.giphy.com/media/NEVT1WQFlHec8/giphy.gif
+https://media.giphy.com/media/1k3mSvfX5lUwYktSSm/giphy.gif
+https://media.giphy.com/media/3o7WTB4o4D0O9IQVQ4/giphy.gif
+background-image: url("https://media.giphy.com/media/gU25raLP4pUu4/giphy.gif");
+background-color: rgb(129, 204, 214);
+font-family: 'Abril Fatface', cursive;
+font-family: 'Playfair Display', serif;
+font-family: 'Lobster', cursive;
+font-family: 'Amatic SC', cursive;
+font-family: 'Satisfy', cursive;
+font-family: 'Kumar One Outline', cursive;
+*/
