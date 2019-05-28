@@ -1,0 +1,19 @@
+{
+  "name": "portofolio",
+  "version": "1.0.0",
+  "description": "This is the place where you can find the main projects I've worked in",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ItzelMB/portofolio.git"
+  },
+  "author": "ItzelMB",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ItzelMB/portofolio/issues"
+  },
+  "homepage": "https://github.com/ItzelMB/portofolio#readme"
+}

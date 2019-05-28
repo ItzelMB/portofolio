@@ -1,0 +1,12 @@
+* {
+    margin: 0;
+    text-align: center;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+}
+
+main {
+    background-image: linear-gradient(#0c17f5, #73c1f5);
+}
