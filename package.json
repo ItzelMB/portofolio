@@ -8,12 +8,12 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/ItzelMB/portofolio.git"
+    "url": "https://github.com/ItzelMB/portofolio.git"
   },
   "author": "ItzelMB",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/ItzelMB/portofolio/issues"
   },
-  "homepage": "https://github.com/ItzelMB/portofolio#readme"
+  "homepage": "https://ItzelMB.github.io"
 }
