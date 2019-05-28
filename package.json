@@ -4,7 +4,8 @@
   "description": "This is the place where you can find the main projects I've worked in",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d build"
   },
   "repository": {
     "type": "git",
@@ -15,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/ItzelMB/portofolio/issues"
   },
-  "homepage": "https://ItzelMB.github.io"
+  "homepage": "https://ItzelMB.github.io",
+  "dependencies": {
+    "gh-pages": "^2.0.1"
+  }
 }
